@@ -85,17 +85,17 @@ When referencing these reports in academic work, please use the following format
 ```bibtex
 @techreport{vostok_dl_reconstruction,
   title={Deep Learning Reconstruction of Atmospheric CO₂ and Climate State from Vostok Ice Core},
-  author={[Author Name]},
-  year={2024},
-  institution={[Institution Name]},
+  author={[Mohammed Noushir]},
+  year={2025},
+  institution={[Queen Mary University of London]},
   type={Technical Report}
 }
 
 @techreport{vostok_dl_final_project,
   title={Vostok Ice Core Deep Learning Final Project},
-  author={[Author Name]},
-  year={2024},
-  institution={[Institution Name]},
+  author={[Mohammed Noushir]},
+  year={2025},
+  institution={[Queen Mary University of London]},
   type={Final Project Report}
 }
 ```
